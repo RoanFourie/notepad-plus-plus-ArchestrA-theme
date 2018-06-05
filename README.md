@@ -20,13 +20,26 @@ To begin using this theme, choose one of the following options to get started:
 
 ### Basic Usage
 After downloading, simply import the file from within Notepad++.  
-Click on "Language" then on "Define your language..." Then on "Import"  
+Click on "Language"  
+
+<p align="center">
+  <img src="img/menu.png"/>
+</p>
+
+Click on "Define your language..."  
+
+<p align="center">
+  <img src="img/define.png"/>
+</p>
+
+Then on "Import"  
 
 <p align="center">
   <img src="img/user-defined-language.png"/>
 </p>
 
-Select the "ArchestrA_2014_Lang_Def.xml" file to be imported.  
+Select the "ArchestrA_2014_Lang_Def.xml" file to be imported.
+  
 After the import, restart Notepad++ to let the theme take effect.  
 You will see the extra language in the Language menu.  
 
