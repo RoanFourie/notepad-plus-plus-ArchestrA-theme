@@ -13,7 +13,7 @@ The ArchestrA theme will look something like this in Notepad++:
 ## Download and Installation
 
 To begin using this theme, choose one of the following options to get started:
-* Clone the repo: `git clone https://github.com/RoanFourie/notepad-plus-plus-ArchestrA-theme.git`
+* Clone the repo: ```git clone https://github.com/RoanFourie/notepad-plus-plus-ArchestrA-theme.git```  
 * [Fork, Clone, or Download on GitHub](https://github.com/RoanFourie/notepad-plus-plus-ArchestrA-theme.git)
 
 ## Usage
@@ -39,7 +39,7 @@ Then on "Import"
 </p>
 
 Select the "ArchestrA_2014_Lang_Def.xml" file to be imported.
-  
+
 After the import, restart Notepad++ to let the theme take effect.  
 You will see the extra language in the Language menu.  
 
@@ -47,3 +47,4 @@ You will see the extra language in the Language menu.
   <img src="img/language.png"/>
 </p>
 
+From there you can safe your scripts in text files with the ".archestra" extension.  
