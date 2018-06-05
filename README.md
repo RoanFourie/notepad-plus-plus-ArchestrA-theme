@@ -1,4 +1,6 @@
-# [Notepad++](https://notepad-plus-plus.org/) is an alterantive text editor with syntax highlighting.  
+# Notepad++ ArchestrA Solarized syntax highlighting theme.  
+
+## [Notepad++](https://notepad-plus-plus.org/) is an alterantive text editor with syntax highlighting.  
 [This repository]() contain a syntax highlighting template for the ArchestrA scripting language.
 This specific one is done according to the [solarized](http://ethanschoonover.com/solarized) dark theme which was scientifically worked out:  
 
@@ -48,3 +50,6 @@ You will see the extra language in the Language menu.
 </p>
 
 From there you can safe your scripts in text files with the ".archestra" extension.  
+
+
+[Other Notepad++ themes](http://docs.notepad-plus-plus.org/index.php/User_Defined_Language_Files)
