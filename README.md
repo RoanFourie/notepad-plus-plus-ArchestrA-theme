@@ -7,6 +7,30 @@ This specific one is done according to the [solarized](http://ethanschoonover.co
 The ArchestrA theme will look something like this in Notepad++:  
 
 <p align="center">
-  <img src="img/example.png" width="350"/>
+  <img src="img/example.png" width="1032"/>
+</p>
+
+## Download and Installation
+
+To begin using this theme, choose one of the following options to get started:
+* Clone the repo: `git clone https://github.com/RoanFourie/notepad-plus-plus-ArchestrA-theme.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/RoanFourie/notepad-plus-plus-ArchestrA-theme.git)
+
+## Usage
+
+### Basic Usage
+After downloading, simply import the file from within Notepad++.  
+Click on "Language" then on "Define your language..." Then on "Import"  
+
+<p align="center">
+  <img src="img/user-defined-language.png" width="1032"/>
+</p>
+
+Select the "ArchestrA_2014_Lang_Def.xml" file to be imported.  
+After the import, restart Notepad++ to let the theme take effect.  
+You will see the extra language in the Language menu.  
+
+<p align="center">
+  <img src="img/language.png" width="1032"/>
 </p>
 
